@@ -1,3 +1,5 @@
+<h2>This repo is on a path to being archived, checkout our other resources in github.com/paypal</h2>
+
 # Using the PayPal SDK in Express 4 to process a PayPal wallet payment
 
 This is an example of the PayPal SDK using the official Node SDK in Express 4 to set up a PayPal wallet payment.
